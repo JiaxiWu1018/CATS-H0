@@ -8,6 +8,6 @@ We also provide the initial csv files in "phot_csv" folder which pass through ED
 
 To reproduce our results, just run "Comprehensive_part1.py" and "Comprehensive_part2.py" in turn.
 
-see EDD Phot in
+Please cite the following papers when using the EDD photometry:
 1. Tully, R. B., Rizzi, L., Shaya, E. J., et al. 2009, The Astronomical Journal, 138, 323, doi: 10.1088/0004-6256/138/2/323
-2. Anand, G. S., Lee, J. C., Van Dyk, S. D., et al. 2021b, MNRAS, 501, 3621, doi: 10.1093/mnras/staa3668
+2. Anand, G. S., Rizzi, L., Tully, R. B., et al. 2021a, AJ, 162, 80, doi: 10.3847/1538-3881/ac0440
