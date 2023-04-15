@@ -10,4 +10,4 @@ To reproduce our results, just run "Comprehensive_part1.py" and "Comprehensive_p
 
 Please cite the following papers when using the EDD photometry:
 1. Tully, R. B., Rizzi, L., Shaya, E. J., et al. 2009, The Astronomical Journal, 138, 323, doi: 10.1088/0004-6256/138/2/323
-2. Anand, G. S., Rizzi, L., Tully, R. B., et al. 2021a, AJ, 162, 80, doi: 10.3847/1538-3881/ac0440
+2. Anand, G. S., Rizzi, L., Tully, R. B., et al. 2021, AJ, 162, 80, doi: 10.3847/1538-3881/ac0440
